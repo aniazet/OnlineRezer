@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd96f8e0-f6ae-4642-aca9-b256beb8af8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjektGrupowy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjektGrupowy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjektGrupowy\src\main\webapp\js" />
       <recent name="D:\ProjektGrupowy\src\main\webapp\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProjektGrupowy\src\main\webapp\css" />
       <recent name="D:\ProjektGrupowy\src\main\webapp" />
     </key>
   </component>
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582971909573</updated>
-      <workItem from="1582971913753" duration="2207000" />
+      <workItem from="1582971913753" duration="2475000" />
     </task>
     <task id="LOCAL-00001" summary="add to pom.xml">
       <created>1582972676148</created>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582973941221</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add bootstrap files">
+      <created>1582974315599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582974315599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,16 +104,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add to pom.xml" />
     <MESSAGE value="add new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new files" />
+    <MESSAGE value="add bootstrap files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bootstrap files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582973939749">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582974312393">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1582973939749" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1582973943182">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1582974312393" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1582974318074">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1582973943182" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1582974318074" />
   </component>
 </project>
